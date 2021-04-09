@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AudioKit",
+        "repositoryURL": "https://github.com/AudioKit/AudioKit",
+        "state": {
+          "branch": "v5-main",
+          "revision": "b1099859f6654c98f0f28e9fb1ed388ae96cb7d6",
+          "version": null
+        }
+      },
+      {
+        "package": "SwiftUICharts",
+        "repositoryURL": "https://github.com/AppPear/ChartView.git",
+        "state": {
+          "branch": "2.0.0-beta.1",
+          "revision": "3265d3e16b6480158b748095a227ea04c48f80ad",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
